@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/moviefinder/static/css/main.e6724e5e.css",
-    "main.js": "/moviefinder/static/js/main.1d4a9523.js",
-    "index.html": "/moviefinder/index.html",
-    "static/media/seaech.svg": "/moviefinder/static/media/seaech.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.e6724e5e.css.map": "/moviefinder/static/css/main.e6724e5e.css.map",
-    "main.1d4a9523.js.map": "/moviefinder/static/js/main.1d4a9523.js.map"
+    "main.css": "/movieplace/static/css/main.e6724e5e.css",
+    "main.js": "/movieplace/static/js/main.cafb5f22.js",
+    "index.html": "/movieplace/index.html",
+    "static/media/seaech.svg": "/movieplace/static/media/seaech.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.e6724e5e.css.map": "/movieplace/static/css/main.e6724e5e.css.map",
+    "main.cafb5f22.js.map": "/movieplace/static/js/main.cafb5f22.js.map"
   },
   "entrypoints": [
     "static/css/main.e6724e5e.css",
-    "static/js/main.1d4a9523.js"
+    "static/js/main.cafb5f22.js"
   ]
 }
